@@ -18,7 +18,7 @@ function Hamzaprofil() {
       <p><strong>Epost:</strong> <a href="mailto:Hamzafa@hiof.no">Hamzafa@hiof.no</a></p>
       
       <img 
-        src="/Musashi.jpg" 
+        src="/hamzaaa.png" 
         alt="Bilde av Hamza Ali" 
         style={{ 
           marginTop: '20px', 
